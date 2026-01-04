@@ -20,7 +20,6 @@ Variables are used to:
 
 Without variables, programming would be very difficult.
 
-
 ## How Variables Work
 When you assign a value to a variable, Python stores that value in memory
 and links it with the variable name.
@@ -31,7 +30,6 @@ age = 20
 Here:
 - age → variable name
 - 20 → value
-
 
 ## Rules for Naming Variables
 - Must start with a letter or underscore (_)
@@ -48,7 +46,7 @@ _totalMarks = 100
 Invalid examples:
 1name = "Ahmad"  
 my-name = 10  
-class = 5  
+class = 4
 
 
 ## Types of Variables (Basic)
