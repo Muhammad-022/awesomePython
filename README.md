@@ -7,4 +7,4 @@ Day 1: What is programming, what is Python, Python features, and uses.<br>
 Day 2: Print() function.<br>
 Day 3: Variables in Python.<br>
 Day 4: Input() function.<br>
-Day 5: Comments in python
+Day 5: Comments in Python
