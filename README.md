@@ -9,4 +9,4 @@ Day 3: Variables in Python.<br>
 Day 4: Input() function.<br>
 Day 5: Comments in Python.<br>
 Day 6: Practice exercise.<br>
-Day 7:
+Day 7: Data
