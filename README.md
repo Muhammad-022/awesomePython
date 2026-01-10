@@ -11,4 +11,4 @@ Day 5: Comments in Python.<br>
 Day 6: Practice exercise.<br>
 Day 7: Data types in Python.<br>
 Day 8: Python file by wrap.<br>
-Day 9: Filetype in py
+Day 9: Filetype in python
