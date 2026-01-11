@@ -12,4 +12,4 @@ Day 6: Practice exercise.<br>
 Day 7: Data types in Python.<br>
 Day 8: Python file by wrap.<br>
 Day 9: while loops in python.
-Day 10: Functions in python
+Day 10: Functions in python.
