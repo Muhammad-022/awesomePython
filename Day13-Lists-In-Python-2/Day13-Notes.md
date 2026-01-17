@@ -33,8 +33,8 @@ Items can be removed using remove() or pop():<br>
 fruits.remove("banana")                                    <br>
 fruits.pop()                                               <br>
 print("Fruits after removing:", fruits)<br>
-remove(value) → removes an item by value<br>
-pop() → removes the last item by default or an item at a specific index if provided<br>
+1. remove(value) → removes an item by value<br>
+2. pop() → removes the last item by default or an item at a specific index if provided<br>
 
 ## 5. Useful Functions with Lists
 
@@ -49,6 +49,7 @@ print("Reversed numbers:", numbers)<br>
 1. len(list) → returns the number of items in the list<br>
 2. sort() → sorts the list in ascending order<br>
 3. reverse() → reverses the current order of the list<br>
+
 
 
 
