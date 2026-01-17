@@ -1,6 +1,6 @@
-# MyPython
+# mypython
 ## Introduction
-This repository is for practicing Python and its libraries on a daily basis.<br>
+This repository is for practicing Python on a daily basis.<br>
 It includes notes, example code, and small projects to improve programming skills.
 # Daily Progress
 Day 1: What is programming, what is Python, Python features, and uses.<br>
@@ -16,3 +16,6 @@ Day 10: If-Else (Basics).<br>
 Day 11: Exercise.<br>
 Day 12: Lists in Python.<br>
 Day 13: Lists in Python 2.<br>
+Day 14: Lists Exercise.<br>
+Day 15: Tuple in Python.<br>
+Day 16:
