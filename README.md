@@ -1,4 +1,4 @@
-# Python-And-Libraries
+# MyPython
 ## Introduction
 This repository is for practicing Python and its libraries on a daily basis.<br>
 It includes notes, example code, and small projects to improve programming skills.
@@ -14,4 +14,5 @@ Day 8: Type Casting in Python.<br>
 Day 9: Operators in Python.<br>
 Day 10: If-Else (Basics).<br>
 Day 11: Exercise.<br>
-Day 12: Lists in
+Day 12: Lists in Python.<br>
+Day 13: Lists in Python 2.<br>
