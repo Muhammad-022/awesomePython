@@ -36,10 +36,6 @@ print("\n--- Checking Item Existence ---")
 if "apple" in fruits:
     print("Apple is in the list")
 
-print("\n--- Loop Through List ---")
-for fruit in fruits:
-    print(fruit)
-
 print("\n--- Sorting and Reversing ---")
 numbers.sort()
 print("Sorted numbers:", numbers)
