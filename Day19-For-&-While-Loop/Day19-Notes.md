@@ -54,3 +54,7 @@ for n in [1, 2, 3]:
 * The loop takes numbers from the list one by one
 * Each number is printed on a new line
 * The loop ends when the list finishes
+### Summary
+* Loops help repeat code
+* While loop depends on a condition
+* For loop works with a sequence (like a list)
