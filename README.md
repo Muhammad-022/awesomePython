@@ -20,6 +20,6 @@ Day 14: Lists Exercise.<br>
 Day 15: Tuple in Python.<br>
 Day 16: Sets in Python.<br>
 Day 17: Dictionaries in Python.<br>
-Day 18: Loops in Python (Introduction).
-Day 19: For & While Loops.
-Day 20: Increment & Decrement in Loops.
+Day 18: Loops in Python (Introduction).<br>
+Day 19: For & While Loops.<br>
+Day 20: Increment & Decrement in Loops.<br>
