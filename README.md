@@ -24,11 +24,4 @@ Day 18: Loops in Python (Introduction).<br>
 Day 19: For & While Loops.<br>
 Day 20: Increment & Decrement in Loops.<br>
 Day 21: <br>
-Day 22
-Day 23
-Day 24
-Day 25
-Day 26
-Day 27
-Day 28
-Day 29
+
