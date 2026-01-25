@@ -3,7 +3,7 @@ Pattern printing is an excellent way to practice loops and understand how nested
 
 Patterns are widely used to improve logic building in programming.
 
-# Key Learning
+## Key Learning
 
 * Nested loops control rows and columns
 
