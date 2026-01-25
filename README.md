@@ -27,4 +27,4 @@ Day 21: Loops Practice.<br>
 Day 22: break & pass & continue statements.<br>
 Day 23: Nested loops in python.<br>
 Day 24: Pattern printing using loops.<br>
-<br>
+Day 25:
