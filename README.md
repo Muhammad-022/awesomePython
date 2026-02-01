@@ -33,4 +33,4 @@ Day 27: String Slicing in Python.<br>
 Day 28: String Slicing Practice.<br>
 Day 29: String Formatting.<br>
 Day 30: Student Management System Project.<br>
-Day 31:
+Day 31: If-Else-Elif
