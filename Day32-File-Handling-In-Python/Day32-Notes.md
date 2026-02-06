@@ -65,8 +65,7 @@ with open("data.txt", "r") as f:
 
 ### Summary
 * open() is used to open a file
-
-Modes: r, w, a
-1. read() → read file
-2. write() → write file
-3. with open() → safe and recommended way
+* Modes: r, w, a
+* read() → read file
+* write() → write file
+* with open() → safe and recommended way
