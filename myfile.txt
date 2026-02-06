@@ -1,0 +1,3 @@
+Hello! This is Day 32 File Handling in Python.
+We are learning how to write into files.
+This line is added using append mode.
