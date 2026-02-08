@@ -36,6 +36,6 @@ Day 30: Student Management System Project.<br>
 Day 31: If-Else-Elif.<br>
 Day 32: File Handling In Python.<br>
 Day 33: Exception Handling In Python.<br>
-Day 34: <br>
+Day 34: Import & <br>
 Day 35:
 
