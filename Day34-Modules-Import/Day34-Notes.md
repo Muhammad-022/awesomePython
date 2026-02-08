@@ -47,10 +47,10 @@ print(random.randint(1, 10))
 This will print a random number between 1 and 10.
 ```
 ### Some Useful Modules
-math → for mathematical operations
-random → for random numbers
-datetime → for date and time
-os → for working with files and folders
+math → for mathematical operations<br>
+random → for random numbers<br>
+datetime → for date and time<br>
+os → for working with files and folders<br>
 
 ### Summary
 * A module is a Python file with code
@@ -58,3 +58,4 @@ os → for working with files and folders
 * Use from module import function to import specific functions
 * Use as to give a short name to a module
 * Built-in modules save time and make work easier
+
