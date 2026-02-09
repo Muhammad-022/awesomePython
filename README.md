@@ -38,4 +38,4 @@ Day 32: File Handling In Python.<br>
 Day 33: Exception Handling In Python.<br>
 Day 34: Import & Module In Python.<br>
 Day 35: Number Guessing Game.<br>
-Day 36: Password
+Day 36: Password Generator.
