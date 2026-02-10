@@ -37,5 +37,4 @@ Day 31: If-Else-Elif.<br>
 Day 32: File Handling In Python.<br>
 Day 33: Exception Handling In Python.<br>
 Day 34: Import & Module In Python.<br>
-Day 35: Number Guessing Game.<br>
-
+Day 35: Number Guessing Game.
