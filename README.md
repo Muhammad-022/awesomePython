@@ -42,4 +42,4 @@ Day 36: Password Generator.<br>
 Day 37: List & Dictionaries In Python.<br>
 Day 38: Functions 2.<br>
 Day 39: Variable Scope In Python.<br>
-Day 40:
+Day 40: <br>
