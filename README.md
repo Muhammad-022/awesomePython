@@ -43,3 +43,4 @@ Day 37: List & Dictionaries In Python.<br>
 Day 38: Functions 2.<br>
 Day 39: Variable Scope In Python.<br>
 Day 40: <br>
+Day 41: List Comprehension.<br>
