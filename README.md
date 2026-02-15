@@ -48,3 +48,4 @@ Day 42: Dictionary Comprehension.<br>
 Day 43: What is OOP, Class, and Object.<br>
 Day 44: Attributes, Methods, and __init__ constructor.<br>
 Day 45: Multiple Objects.<br>
+Day 46: Encapsulation (Public and Private Attributes).<br>
