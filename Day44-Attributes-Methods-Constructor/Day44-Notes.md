@@ -1,5 +1,5 @@
 # Day 44: Attributes, Methods, and __init__ Constructor
-## Introduction
+# Introduction
 In Object-Oriented Programming (OOP), classes store data and behavior together.<br>
 The data of a class is called attributes, and the behavior is called methods.
 <br>
@@ -85,3 +85,4 @@ m2.details()
 * It assigns values to attributes using self.
 * Methods allow objects to perform actions using their stored data.
 * This is the foundation of Object-Oriented Programming in Python.
+
