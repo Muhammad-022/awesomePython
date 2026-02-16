@@ -1,5 +1,5 @@
 # Day 45: Multiple Objects and Real Examples
-# Introduction
+## Introduction
 In Object-Oriented Programming (OOP), a class is a blueprint.<br>
 From one class, we can create many objects.
 
@@ -93,3 +93,4 @@ OOP models this using multiple objects from one class.
 * A class is a blueprint, and objects are real instances.
 * Multiple objects can be created from one class, each storing its own data while sharing the same methods.
 * This allows Python programs to model real-world systems effectively.
+
