@@ -44,3 +44,10 @@ Day 38: Functions 2.<br>
 Day 39: Variable Scope In Python.<br>
 Day 40: Lambda Functions.<br>
 Day 41: List Comprehension.<br>
+Day 42: Dictionary Comprehension.<br>
+Day 43: What is OOP, Class, and Object.<br>
+Day 44: Attributes, Methods, and __init__ constructor.<br>
+Day 45: Multiple Objects.<br>
+Day 46: Encapsulation (Public and Private Attributes).<br>
+Day 47: Inheritance in Python.<br>
+Day 48: Method Overriding.<br>
