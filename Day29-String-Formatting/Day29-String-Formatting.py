@@ -2,8 +2,8 @@
 
 # 1. Basic string concatenation
 
-name = "Ahmed"
-age = 20
+name = "Ahmad"
+age = 19
 
 # Using + operator (not recommended for complex formatting)
 message1 = "My name is " + name + " and I am " + str(age) + " years old."
