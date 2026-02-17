@@ -51,4 +51,4 @@ Day 45: Multiple Objects.<br>
 Day 46: Encapsulation (Public and Private Attributes).<br>
 Day 47: Inheritance in Python.<br>
 Day 48: Method Overriding.<br>
-Day 49:
+Day 49
