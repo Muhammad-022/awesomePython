@@ -103,6 +103,4 @@ Father + Mother → Child
 4. Easier maintenance
 5. Scalable programs
 
-Child can add new methods
 
-Supports multilevel inheritance
