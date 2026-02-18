@@ -10,7 +10,7 @@ class Student:
         self.age = age        # public
 
 
-s1 = Student("Ahmad", 20)
+s1 = Student("Ahmad", 19)
 
 print("=== Public Attributes ===")
 print("Name:", s1.name)
