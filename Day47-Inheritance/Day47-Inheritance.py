@@ -11,7 +11,6 @@ class Dog(Animal):
     def bark(self):
         print("Dog barks")
 
-
 # Using inherited method
 d = Dog()
 d.speak()   # inherited from Animal
