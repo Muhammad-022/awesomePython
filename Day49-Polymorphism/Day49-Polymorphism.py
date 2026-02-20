@@ -44,7 +44,7 @@ for a in animals:
 
 print("\n--- Example 3 ---")
 
-# Real-life Example
+# Example 3
 
 class Shape:
     def area(self):
