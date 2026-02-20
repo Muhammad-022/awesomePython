@@ -26,5 +26,4 @@ Represents a single book.
 * Return book
 * Search book
 
-Track issued status
 
