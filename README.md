@@ -52,3 +52,4 @@ Day 46: Encapsulation (Public and Private Attributes).<br>
 Day 47: Inheritance in Python.<br>
 Day 48: Method Overriding.<br>
 Day 49: Polymorphism.<br>
+Day 50: OOP Project (Library Management System)<br>
