@@ -55,7 +55,7 @@ Day 49: Polymorphism.<br>
 Day 50: OOP Project (Library Management System).<br>
 Day 51: Abstract Classes & ABC Module.<br>
 Day 52: Multiple Inheritance & MRO. <br>
-Day 53:  <br>
+Day 53: Property Decorators.<br>
 Day 54:
 Day 54:
 Day 55:
