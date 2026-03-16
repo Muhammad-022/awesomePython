@@ -11,8 +11,6 @@ For example, if we have:
 
 Then a class like `FlyingCar` can inherit from both.
 
----
-
 ## Why Use Multiple Inheritance?
 Multiple inheritance is used when a class needs features from more than one parent class.
 
@@ -27,8 +25,6 @@ For example:
 - `FlyingCar` can use both
 
 This makes code more reusable and organized.
-
----
 
 ## What is MRO?
 MRO stands for **Method Resolution Order**.
