@@ -28,7 +28,7 @@ It behaves like a normal function, but it is placed inside the class because it 
 def method_name():
     pass
 ```
-### Use Case
+#### Use Case
 Use a static method when:
 * the method does not need instance variables
 * the method does not need class variables
@@ -45,7 +45,7 @@ It uses cls as its first parameter.
 def method_name(cls):
     pass
 ```
-### Use Case
+#### Use Case
 Use a class method when:
 * you want to access or modify class variables
 * you want behavior related to the whole class
