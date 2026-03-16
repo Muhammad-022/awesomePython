@@ -18,7 +18,6 @@ class Flyable:
 class FlyingCar(Vehicle, Flyable):
     pass
 
-
 car = FlyingCar()
 
 car.start()
