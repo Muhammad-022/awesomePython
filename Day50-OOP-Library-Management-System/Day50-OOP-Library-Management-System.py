@@ -1,4 +1,4 @@
-# Day 50: OOP Mini Project — Library Management System
+# Day 50: OOP Project (Library Management System)
 
 class Book:
     def __init__(self, title, author, book_id):
