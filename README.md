@@ -56,8 +56,9 @@ Day 50: OOP Project (Library Management System).<br>
 Day 51: Abstract Classes & ABC Module.<br>
 Day 52: Multiple Inheritance & MRO. <br>
 Day 53: Property Decorators.<br>
-Day 54:
-Day 54:
-Day 55:
-Day 54:
-
+Day 54: Static & Class Methods.<br>
+Day 55: Magic/Dunder Methods.<br>
+Day 56: Student Record System.<br>
+Day 57: Stack Implementation.<br>
+Day 58: Queue Implementation.<br>
+ 
