@@ -71,3 +71,4 @@ Day 65: JSON File Handling.<br>
 Day 66: SQLite Basics.<br>
 Day 67: Expense Tracker Project.<br>
 Day 68: Decorators.<br>
+Day 69: Generators & Iterators.<br>
