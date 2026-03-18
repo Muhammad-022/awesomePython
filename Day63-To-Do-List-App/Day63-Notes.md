@@ -1,4 +1,4 @@
-# Day 63: Mini DSA Project: To-Do List App
+# Day 63: To-Do List App
 
 ## Concept
 A To-Do List App helps manage daily tasks efficiently.
