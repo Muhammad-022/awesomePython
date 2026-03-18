@@ -1,3 +1,5 @@
+# Day 61: Searching Algorithms
+
 # Linear Search
 def linear_search(arr, target):
     for i in range(len(arr)):
