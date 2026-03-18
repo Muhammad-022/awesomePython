@@ -64,3 +64,10 @@ Day 58: Queue Implementation.<br>
 Day 59: Linked List.<br>
 Day 60: Recursion.<br>
 Day 61: Searching Algorithms.<br>
+Day 62: Sorting Algorithms.<br>
+Day 63: To-Do List App.<br>
+Day 64: CSV File Handling.<br>
+Day 65: JSON File Handling.<br>
+Day 66: SQLite Basics.<br>
+Day 67: Expense Tracker Project.<br>
+Day 68: Decorators.<br>
