@@ -61,4 +61,5 @@ Day 55: Magic/Dunder Methods.<br>
 Day 56: Student Record System.<br>
 Day 57: Stack Implementation.<br>
 Day 58: Queue Implementation.<br>
- 
+Day 59: Linked List.<br>
+Day 60: Recursion.<br>
