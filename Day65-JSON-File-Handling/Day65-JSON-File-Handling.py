@@ -5,7 +5,7 @@ import json
 # Writing JSON File
 def write_json():
     data = {
-        "username": "Ahmed",
+        "username": "Ahmad",
         "theme": "dark",
         "notifications": True,
         "volume": 75
