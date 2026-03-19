@@ -1,0 +1,2 @@
+Hello, Ahmad!
+Context manager example for file handling.
