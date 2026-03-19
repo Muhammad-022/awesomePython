@@ -20,13 +20,11 @@ with context_manager as variable:
 * `__exit__()` → executes at the end of with block
 
 ### Use Cases
-
 * File operations (open/close automatically)
 * Database connections
 * Thread locks or resource management
 
 ### Advantages
-
 * Avoids forgetting cleanup (like closing files)
 * Handles exceptions safely
 * Cleaner, more readable code
