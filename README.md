@@ -73,3 +73,4 @@ Day 67: Expense Tracker Project.<br>
 Day 68: Decorators.<br>
 Day 69: Generators & Iterators.<br>
 Day 70: Context Managers.
+Day 71:
