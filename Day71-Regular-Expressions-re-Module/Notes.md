@@ -37,15 +37,11 @@ Python provides the built-in `re` module for regex operations.
 Pattern example:
 ^[\w\.-]+@[\w\.-]+\.\w+$
 
----
-
 ## Use Cases
 - Form validation  
 - Data cleaning  
 - Search engines  
 - Log analysis  
-
----
 
 ## Why Use Regex?
 - Powerful text processing  
